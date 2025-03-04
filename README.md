@@ -1,1 +1,1 @@
-# Sudip_GenAI
+This is readme file
